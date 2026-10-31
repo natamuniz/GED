@@ -1,0 +1,14 @@
+/.env
+/backend/.env
+/backend/vendor/
+/backend/node_modules/
+/backend/storage/*.key
+/backend/storage/logs/*
+/.idea/
+/.vscode/
+*.log
+/frontend/node_modules/
+/frontend/dist/
+/frontend/.env
+/frontend/test-results/
+/frontend/playwright-report/
