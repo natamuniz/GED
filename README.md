@@ -2,6 +2,16 @@
 
 Projeto pessoal de estudo de backend. API Laravel 13, PHP 8.4 e PostgreSQL 17, com frontend separado em Vue 3, TypeScript e Vite. O ambiente de desenvolvimento roda em Docker.
 
+## Licença
+
+Copyright (c) 2026 Natã Muniz.
+
+O código próprio do GED é software livre: você pode redistribuí-lo e modificá-lo sob os termos da **GNU General Public License, versão 3 ou posterior**, conforme publicada pela Free Software Foundation (`GPL-3.0-or-later`). Consulte o texto integral em [LICENSE](LICENSE). O software é fornecido sem garantias, conforme os termos da licença.
+
+O uso comercial é permitido. Ao distribuir versões derivadas, é necessário manter a licença GPL e disponibilizar o código-fonte correspondente aos destinatários, conforme suas condições. Dependências e componentes de terceiros mantêm suas respectivas licenças.
+
+A versão inicial, no commit `854a15c`, foi publicada sob MIT; as permissões já concedidas para essa versão não são retiradas por esta alteração.
+
 ## Iniciar no Windows
 
 Pré-requisito: Docker Desktop em execução, configurado para containers Linux. PHP, Composer e PostgreSQL locais não são necessários.
